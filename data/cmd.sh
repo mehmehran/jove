@@ -32,5 +32,3 @@ echo "🔹🔹🔹🔹🔹🔹🔹🔹🔹"
 echo '<i>✨6-تعداد پردازش : '"$ProcessCnt"'✨</i>'
 echo "🔹🔹🔹🔹🔹🔹🔹🔹🔹"
 echo '<i>✨7-آپ تایم : '"$uptime"'✨</i>'
-echo "<b>«Version 5.3 LolliPop»</b>"
-echo "«@JoveTG»"
